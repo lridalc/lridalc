@@ -100,14 +100,14 @@ No está planteado como un proyecto básico, sino como una forma de trabajar con
 
 ## 📦 Otros proyectos
 
-| Proyecto                   | Tecnología                        |
-| -------------------------- | --------------------------------- |
-| Editor de texto            | C# + Windows Forms + MVC          |
-| Simulador de ascensor      | C# + Windows Forms + MVC          |
-| App de tareas              | Kotlin + Jetpack Compose + SQLite |
-| Scripts automatización     | Python                            |
-| EA MT5 (cálculo de lotaje) | MQL5                              |
-| Indicador TradingView      | Pine Script                       |
+| Proyecto                   | Tecnología                        | Enlaces |
+| -------------------------- | --------------------------------- | ------- |
+| Editor de texto            | C# + Windows Forms + MVC          | [🔗 Página web con instaladores y el código fuente](https://lridruejo-fpdrioja.github.io/ral-editor-de-texto/) |
+| Simulador de ascensor      | C# + Windows Forms + MVC          |         |
+| App de tareas              | Kotlin + Jetpack Compose + SQLite |         |
+| Scripts automatización     | Python                            |         |
+| EA MT5 (cálculo de lotaje) | MQL5                              |         |
+| Indicador TradingView      | Pine Script                       |         |
 
 *(Actualmente estoy mejorando algunos de estos proyectos para subirlos a GitHub)*
 
