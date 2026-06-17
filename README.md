@@ -13,7 +13,7 @@
 
 Soy desarrolladora backend enfocada en Python y fintech. Construyo proyectos reales para aprender cómo funciona el desarrollo en producción: APIs, arquitectura, datos y sistemas.
 
-Actualmente estoy finalizando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y cursando un **máster en desarrollo con IA**.
+Actualmente estoy finalizando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** (calificaciones finales [aquí](https://docs.google.com/spreadsheets/d/1PyENwkQ6pDJJgR0R3FHhtxCXduO2dILot0FEqUUTBVw/edit?usp=sharing)) y cursando un **máster en desarrollo con IA**.
 
 Busco mi primera oportunidad profesional como desarrolladora backend, donde pueda seguir aprendiendo y aportar valor desde el primer día.
 
@@ -23,10 +23,10 @@ Busco mi primera oportunidad profesional como desarrolladora backend, donde pued
 
 Mi trayectoria combina tecnología, negocio e iniciativa:
 
-- Empecé Ingeniería Informática, pero decidí cambiar a un enfoque más práctico
-- He trabajado como **asesora financiera**, desarrollando visión de negocio y análisis
-- Soy **socia fundadora de una asociación de emprendimiento juvenil**, donde estuve muy implicada en su lanzamiento
-- Actualmente me estoy formando en desarrollo + IA mientras construyo proyectos reales
+- Empecé Ingeniería Informática, pero decidí cambiar a un enfoque más práctico.
+- He trabajado como **asesora financiera**, desarrollando visión de negocio y análisis.
+- Soy **socia fundadora de una asociación de emprendimiento juvenil, [INNOVA CLUB](https://innovanavarra.com)**, donde estuve muy implicada en su lanzamiento.
+- Actualmente me estoy formando en desarrollo + IA mientras construyo proyectos reales.
 
 Creo firmemente que **la mejor forma de aprender es construyendo**.
 
@@ -73,8 +73,8 @@ Me motiva especialmente crear **herramientas útiles con impacto real**.
 
 ## 📂 Proyecto destacado
 
-🚧 Estado: en desarrollo activo  
-🎯 Objetivo: simular un entorno backend real (no proyecto académico)
+🚧 **Estado:** En desarrollo activo  
+🎯 **Objetivo:** Simular un entorno backend real (no proyecto académico)
 
 ### 🌦️ Weather Analytics Dashboard
 
@@ -115,7 +115,6 @@ No está planteado como un proyecto básico, sino como una forma de trabajar con
 
 ## 🎯 Objetivo actual
 
-- Finalizar DAM (junio 2026)
 - Encontrar empresa para prácticas (FCT)
 - Seguir desarrollando mi portfolio
 - Conseguir mi primera oportunidad como desarrolladora backend
@@ -162,4 +161,3 @@ Aporto una combinación poco común en perfiles junior:
 > Prefiero hacer un proyecto difícil y aprender de verdad, que hacer uno fácil y quedarme igual.
 
 ---
-
