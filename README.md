@@ -25,7 +25,7 @@ Mi trayectoria combina tecnología, negocio e iniciativa:
 
 - Empecé Ingeniería Informática, pero decidí cambiar a un enfoque más práctico.
 - He trabajado como **asesora financiera**, desarrollando visión de negocio y análisis.
-- Soy **socia fundadora de una asociación de emprendimiento juvenil, [INNOVA CLUB](https://innovanavarra.com)**, donde estuve muy implicada en su lanzamiento.
+- Soy **socia fundadora de una asociación de emprendimiento juvenil, [INNOVA CLUB](https://www.innovanavarra.com)**, donde estuve muy implicada en su lanzamiento.
 - Actualmente me estoy formando en desarrollo + IA mientras construyo proyectos reales.
 
 Creo firmemente que **la mejor forma de aprender es construyendo**.
